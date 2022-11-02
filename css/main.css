@@ -135,7 +135,6 @@ a {
 }
 
 .login {
-  border: 2px solid red;
   height: 100%;
   min-height: 460px;
   display: flex;
